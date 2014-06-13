@@ -1,0 +1,22 @@
+platform :ios ,'6.0'
+
+pod 'ASIHTTPRequest'
+
+pod 'SIAlertView'
+pod 'UIColor-Utilities'
+pod 'SDWebImage'
+pod 'SVProgressHUD'
+pod 'PopoverView'
+pod 'iCarousel'
+
+pod 'JSONKit'
+
+pod 'ZYQAssetPickerController'
+
+pod 'FMDB'
+
+pod 'NZLabel'
+
+pod 'SZTextView'
+
+pod 'MZFormSheetController'
